@@ -41,7 +41,7 @@ The ``migration`` sub-sections are:
    :titlesonly:
 
    migration-source
-   migration-target
+   migration-destination
 
 Examples
 --------

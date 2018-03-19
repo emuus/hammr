@@ -80,17 +80,9 @@ In JSON:
 	}
 
 
-``status`` sub-command
-~~~~~~~~~~~~~~~~~~~~~~
-
-Provide the status of a migration. The options are:
-
-	* ``--id`` (mandatory): the ID of the migration
-
-
 ``delete`` sub-command
 ~~~~~~~~~~~~~~~~~~~~~~
 
 Deletes an existing migration. The options are:
 
-	* ``--id`` (mandatory): the ID of the instance or migration to delete
+	* ``--id`` (mandatory): the ID of the migration to delete
