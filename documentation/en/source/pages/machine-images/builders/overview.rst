@@ -2,8 +2,8 @@
 
 .. _template-builders:
 
-Builders
-========
+Builders Specification
+======================
 
 Within a template or migration, the ``builders`` section is an array of objects, describing the list of machine images to build (and where possible publish). For example if you wished to build an AMI image for Amazon EC2 and another for Microsoft Azure, you would specify a builder for each.
 

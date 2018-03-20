@@ -15,4 +15,3 @@ A migration has the following part:
    :titlesonly:
 
    migration
-   ../../machine-images/builders/overview

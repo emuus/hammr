@@ -5,7 +5,7 @@
 Migration
 =========
 
-The migration section describes the name, os, source and target information required to migrate a live system.
+The migration section describes the name, OS, source and target information required to migrate a live system.
 
 The definition of a ``migration`` section when using YAML is:
 

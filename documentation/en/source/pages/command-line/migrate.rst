@@ -23,7 +23,7 @@ Displays all the migrations for the user.
 ``launch`` sub-command
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Executes an automated migration (including scan, generate and publish) of a running system, based on a yaml or json file. The options are:
+Executes an automated migration (including scan, generate and publish) of a running system, based on a YAML or JSON file. The options are:
 
 	* ``--file`` (mandatory): a yaml or json file which specifies the details of the migration to be executed
 
@@ -83,6 +83,6 @@ In JSON:
 ``delete`` sub-command
 ~~~~~~~~~~~~~~~~~~~~~~
 
-Deletes an existing migration. The options are:
+Deletes a completed migration. The options are:
 
 	* ``--id`` (mandatory): the ID of the migration to delete
